@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "bash-mcp": {
+      "command": "python",
+      "args": ["C:\\path\\to\\bash-mcp\\server.py"],
+      "env": {
+        "BASH_MCP_WORKDIR": "C:\\Users\\YOU\\projects",
+        "BASH_MCP_ALLOWED_ROOT": "C:\\Users\\YOU\\projects",
+        "BASH_MCP_TIMEOUT": "60"
+      }
+    }
+  }
+}
